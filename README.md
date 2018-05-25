@@ -1,3 +1,5 @@
+![alt text](https://github.com/asifvora/react-context-api-demo/blob/master/public/react-contex.png)
+
 ## React Context
 
 Demo code for the React's new Context API.

@@ -11,7 +11,7 @@ Demo code for the React's new Context API.
 ## Questions?🤔 
   
 
-Hit me on twitter [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/007_dark_shadow) 
+Hit me on twitter [![Twitter URL](https://twitter.com/007_dark_shadow)](https://twitter.com/007_dark_shadow) 
 
 [![Medium](https://img.shields.io/badge/Medium-ibhavikmakwana-green.svg)](https://medium.com/@asifvora) 
 

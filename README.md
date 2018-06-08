@@ -8,6 +8,34 @@ Demo code for the React's new Context API.
 
 1. do a `npm i` then a `npm start`
 
+
+## Getting Started
+
+For help getting started with React, view online
+[documentation](https://reactjs.org/).
+
+#### 1. [Setup React](https://reactjs.org/docs/try-react.html)
+
+#### 2. Clone the repo
+
+```sh
+$ https://github.com/asifvora/react-context-api-demo.git
+$ cd react-context-api-demo/
+```
+
+#### 3. Install dependency
+
+```sh
+$ npm install
+```
+
+#### 4. Run the app
+
+```sh
+$ npm start
+```
+
+
 ## Questions?🤔 
   
 

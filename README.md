@@ -4,11 +4,6 @@
 
 Demo code for the React's new Context API.
 
-## To Run
-
-1. do a `npm i` then a `npm start`
-
-
 ## Getting Started
 
 For help getting started with React, view online

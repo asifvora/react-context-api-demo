@@ -12,7 +12,5 @@ Demo code for the React's new Context API.
   
 
 Hit me on twitter [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/007_dark_shadow)
-
-[![Medium](https://img.shields.io/badge/Medium-ibhavikmakwana-green.svg)](https://medium.com/@asifvora) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibhavikmakwana-blue.svg)](https://www.linkedin.com/in/asif-vora/) 
+[![Medium](https://img.shields.io/badge/Medium-asifvora-brightgreen.svg)](https://medium.com/@asifvora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asifvora-blue.svg)](https://www.linkedin.com/in/asif-vora/) 

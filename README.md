@@ -30,9 +30,9 @@ $ npm install
 $ npm start
 ```
 
-## Demo
+## View Demo
 
-[Demo](https://serene-saha-d894e0.netlify.com/).
+[Demo](https://serene-saha-d894e0.netlify.com/)
 
 ## Questions?🤔 
   

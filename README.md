@@ -32,7 +32,7 @@ $ npm start
 
 ## View Demo
 
-[Demo](https://serene-saha-d894e0.netlify.com/)
+[Demo](https://react-context-api-demo.netlify.com/)
 
 ## Questions?🤔 
   
